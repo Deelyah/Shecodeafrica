@@ -41,7 +41,7 @@ html {
 
 .she_code_logo {
   height: 70px;
-  width: 100%;
+  width: 50px;
 }
 
 .largeScreen_nav {
@@ -887,6 +887,8 @@ p {
   }
 }
 
+
+
 @media screen and (min-width: 880px) {
   .menu {
     display: none;
@@ -1049,7 +1051,7 @@ p {
   }
 
   .contact_step2 {
-    display: flex;
+    display: flex; 
   }
 
   .contactUs {
